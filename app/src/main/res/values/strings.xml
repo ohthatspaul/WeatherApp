@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Paul_Weather_Task</string>
+    <string name="name">Paul</string>
+    <string name="get_button">GET DATA</string>
+    <string name="weather_id">Weather ID</string>
+    <string name="get_aqi_data">GET AQI DATA</string>
+    <string name="weather_id_num">cn101210701</string>
+    <string name="title_activity_select_city">SelectCityActivity</string>
+    <string name="city_list">City List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
